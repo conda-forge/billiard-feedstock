@@ -29,11 +29,12 @@ test:
     - billiard.dummy
 
 about:
-  home: http://github.com/celery/billiard
+  home: https://github.com/celery/billiard
   license: BSD 3-Clause
   license_family: BSD
   license_file: LICENSE.txt
   summary: Python multiprocessing fork with improvements and bugfixes
+  dev_url: https://github.com/celery/billiard
 
 extra:
   recipe-maintainers:
