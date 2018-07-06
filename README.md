@@ -14,14 +14,15 @@ Summary: Python multiprocessing fork with improvements and bugfixes
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/billiard-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/billiard-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/billiard-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/billiard-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/billiard-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/billiard-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/billiard-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/billiard-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/billiard/badges/version.svg)](https://anaconda.org/conda-forge/billiard)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/billiard/badges/downloads.svg)](https://anaconda.org/conda-forge/billiard)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-billiard-green.svg)](https://anaconda.org/conda-forge/billiard) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/billiard.svg)](https://anaconda.org/conda-forge/billiard) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/billiard.svg)](https://anaconda.org/conda-forge/billiard) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/billiard.svg)](https://anaconda.org/conda-forge/billiard) |
 
 Installing billiard
 ===================
