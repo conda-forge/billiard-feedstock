@@ -1,11 +1,11 @@
-About billiard
-==============
+About billiard-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/billiard-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/celery/billiard
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/billiard-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python multiprocessing fork with improvements and bugfixes
 
