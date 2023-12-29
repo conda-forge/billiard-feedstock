@@ -38,5 +38,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - efiop
+    - rxm7706
     - kwilcox
     - igortg
