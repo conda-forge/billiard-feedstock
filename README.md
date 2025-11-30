@@ -368,7 +368,6 @@ Feedstock Maintainers
 =====================
 
 * [@efiop](https://github.com/efiop/)
-* [@igortg](https://github.com/igortg/)
 * [@kwilcox](https://github.com/kwilcox/)
 * [@rxm7706](https://github.com/rxm7706/)
 
