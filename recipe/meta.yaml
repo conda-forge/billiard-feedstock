@@ -5,11 +5,11 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/b/billiard/billiard-{{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/b/billiard/billiard-{{ version }}.tar.gz
   sha256: 55f542c371209e03cd5862299b74e52e4fbcba8250ba611ad94276b369b6a85f
 
 build:
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
